@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.54f5f68e2f96b46b287a47e3d2849371.js"
+  "/precache-manifest.5c73589f32566d0e5196e0ae06169a4e.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "hitface"});
